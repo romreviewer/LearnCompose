@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LearnCompose</string>
+    <string name="title_activity_dynamic">Dynamic</string>
+    <string name="title_activity_profile_card">ProfileCard</string>
+</resources>

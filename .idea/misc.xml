@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../layout/compose-model-1651919101920.xml" value="0.22719594594594594" />
+        <entry key="../../../../layout/compose-model-1651989897380.xml" value="0.1" />
+        <entry key="../../../../layout/compose-model-1652024189375.xml" value="0.22719594594594594" />
+        <entry key="../../../../layout/compose-model-1652184578916.xml" value="0.22719594594594594" />
+        <entry key="../../../../layout/compose-model-1652185014709.xml" value="0.22719594594594594" />
+        <entry key="../../../../layout/compose-model-1652860752750.xml" value="0.3460161145926589" />
+        <entry key="../../../../layout/compose-model-1652963518934.xml" value="0.3032094594594595" />
+        <entry key="../../../../layout/compose-model-1652964869100.xml" value="0.3032094594594595" />
+        <entry key="../../../../layout/compose-model-1652965217758.xml" value="1.0" />
+        <entry key="../../../../layout/compose-model-1654589157100.xml" value="0.22635135135135134" />
+        <entry key="../../../../layout/compose-model-1654599816484.xml" value="0.25" />
+        <entry key="../../../../layout/compose-model-1654748260589.xml" value="0.22635135135135134" />
+        <entry key="../../../../layout/compose-model-1654932701095.xml" value="0.22635135135135134" />
+        <entry key="../../../../layout/compose-model-1654947635273.xml" value="0.22635135135135134" />
+        <entry key="../../../../layout/compose-model-1655027114994.xml" value="0.22635135135135134" />
+        <entry key="../../../../layout/compose-model-1655027125973.xml" value="0.22635135135135134" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_16" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
