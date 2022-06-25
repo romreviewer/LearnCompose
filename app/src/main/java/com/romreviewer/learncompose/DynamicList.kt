@@ -18,8 +18,6 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
 import com.romreviewer.learncompose.ui.theme.LearnComposeTheme
 
-val nameList = mutableListOf("car", "bus", "scooter")
-
 class Dynamic : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
